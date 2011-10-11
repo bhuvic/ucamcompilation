@@ -137,7 +137,7 @@
         <version>0.0.2.vcam_ucamex</version>
     </dependency>
     <dependency>
-      <groupId>org</groupId>
+      <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.postgres</artifactId>
       <version>0.0.1.vcam_postgres_bundle</version>
     </dependency>
