@@ -9,7 +9,7 @@
   <groupId>uk.ac.cam.caret.nakamura</groupId>
   <artifactId>uk.ac.cam.caret.nakamura</artifactId>
   <name>UCAM Nakamura Instance</name>
-  <version>1.2.90.vcam</version>
+  <version>1.2.91.vcam</version>
   <packaging>jar</packaging>
   <build>
     <plugins>
@@ -46,7 +46,7 @@
             <bundle>
                 <groupId>org.sakaiproject.nakamura</groupId>
                 <artifactId>net.unicon.kaltura</artifactId>
-                <version>0.0.1.vcam_kaltura</version>
+                <version>0.0.2.vcam_kaltura</version>
                 <startLevel>30</startLevel> 
             </bundle>
           </additionalBundles>
@@ -132,7 +132,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>net.unicon.kaltura</artifactId>
-      <version>0.0.1.vcam_kaltura</version>
+      <version>0.0.2.vcam_kaltura</version>
     </dependency>
   </dependencies>
   <repositories>
